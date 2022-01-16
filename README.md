@@ -1,7 +1,8 @@
 # Geographic-Information-Systems-GIS-Specialization
-There are 5 Courses in this Specialization
+## There are 5 Courses in this Specialization
+<br/>
 
-1 Fundamentals of GIS
+**Chapter 1 - Fundamentals of GIS**
 
 Explore the world of spatial analysis and cartography with geographic information systems (GIS). In this class you will learn the basics of the industry’s leading software tool, ArcGIS, during four week-long modules: 
 
@@ -17,9 +18,9 @@ Take Fundamentals of GIS as a standalone course or as part of the Geographic Inf
 
 Students who need an ArcGIS license will receive a non-commercial, 1 year student license for participation in this course and specialization.
 
+<br/>
 
-
-2 GIS Data Formats, Design and Quality
+**Chapter 2 - GIS Data Formats, Design and Quality**
 
 In this course, the second in the Geographic Information Systems (GIS) Specialization, you will go in-depth with common data types (such as raster and vector data), structures, quality and storage during four week-long modules: 
 
@@ -33,9 +34,10 @@ Week 4: Explore datasets and assess them for quality and uncertainty.  You will 
 
 Take GIS Data Formats, Design and Quality as a standalone course or as part of the Geographic Information Systems (GIS) Specialization. You should have equivalent experience to completing the first course in this specialization, Fundamentals of GIS, before taking this course. By completing the second class in the Specialization you will gain the skills needed to succeed in the full program.
 
+<br/>
 
+**Chapter 3 - Geospatial and Environmental Analysis**
 
-3 Geospatial and Environmental Analysis
 
 Apply your GIS knowledge in this course on geospatial analysis, focusing on analysis tools,  3D data, working with rasters, projections, and environment variables. Through all four weeks of this course, we'll work through a project together - something unique to this course - from project conception, through data retrieval, initial data management and processing, and finally to our analysis products.
 
@@ -51,9 +53,9 @@ Week 4: Expand your knowledge of symbology. Learn how to visually display your d
 
 Take Geospatial and Environmental Analysis as a standalone course or as part of the Geographic Information Systems (GIS) Specialization. You should have equivalent experience to completing the first and second courses in this specialization, "Fundamentals of GIS" and "GIS Data Formats, Design, and Quality", before taking this course. By completing this third class in the Specialization you will gain the skills needed to succeed in the full program.
 
+<br/>
 
-
-4 Imagery, Automation, and Applications
+**Chapter 4 - Imagery, Automation, and Applications**
 
 Welcome to the last course of the specialization (unless your continuing on to the capstone project, of course!). 
 
@@ -69,9 +71,9 @@ Week 4: We'll begin the final week by talking about a few spatial analyst tools 
 
 Take Geospatial and Environmental Analysis as a standalone course or as part of the Geographic Information Systems (GIS) Specialization. You should have equivalent experience to completing the first, second, and third courses in this specialization, "Fundamentals of GIS," "GIS Data Formats, Design, and Quality", and "Geospatial and Environmental Analysis," respectively, before taking this course. By completing the fourth class you will gain the skills needed to succeed in the Specialization capstone.
 
+<br/>
 
-
-5 Geospatial Analysis Project
+**Chapter 5 - Geospatial Analysis Project**
 
 In this project-based course, you will design and execute a complete GIS-based analysis – from identifying a concept, question or issue you wish to develop, all the way to final data products and maps that you can add to your portfolio. Your completed project will demonstrate your mastery of the content in the GIS Specialization and is broken up into four phases:
 
