@@ -76,13 +76,59 @@ The Intersect Tool does indeed return the common area of layers provided to it a
 <br/>
 <br/>
 
-4.
-Question 4
+**Question 4 Given the following data table, named “land_ownership” and query, check all records that would be returned.** 
+![1](https://user-images.githubusercontent.com/96668549/149662747-3c04f5f4-cc8b-4db9-a697-a4f99233d9df.PNG)
 
-Given the following data table, named “land_ownership” and query, check all records that would be returned. 
+**Query:** *SELECT * FROM land_ownership WHERE [land_type_id] = 1 AND ([land_owner_id]
+= 2 OR [land_owner_name] = ’Public_Federal’)*
 
-Query: SELECT * FROM land_ownership WHERE [land_type_id] = 1 AND ([land_owner_id]
-= 2 OR [land_owner_name] = ’Public_Federal’)
+location_id: 1    
+
+**location_id: 2**    
+Correct
+
+This record would be
+returned. The statement SELECT * FROM land_ownership
+WHERE [land_type_id] = 1 evaluates as TRUE
+and the second half of the statement AND ([land_owner_id]
+= 2 OR [land_owner_name] = ’Public_Federal’) also evaluates as TRUE because the land_owner_name is Public_Federal. This record evaluates as TRUE AND
+TRUE resulting in the record being returned.    
+
+location_id: 3
+
+**location_id: 4**
+Correct
+
+This record would be returned. The statement SELECT * FROM land_ownership WHERE [land_type_id] = 1 evaluates as TRUE and the second half of the statement AND([land_owner_id] = 2 OR [land_owner_name] = ’Public_Federal’)  also evaluates as TRUE. The query for this records evaluates to TRUE AND TRUE resulting in the record being returned.
+
+location_id: 5    
+
+<br/>
+<br/>
+
+**Question 5 Which of the following best
+describes the effect of the following Python Code:** 
+
+*employeeInitial =
+!employeeInitial!.upper()*    
+1 / 1 point
+
+Creates a new field and
+populates it with employeeInitial set to upper case.    
+
+**Transforms the content of the
+field employeeInitial to upper case and stores it back in employeeInitial,
+overwriting the previous data.**    
+
+Moves employeeInitial to be
+the first column in the data table.    
+
+Sorts employeeInitial
+alphabetically so the upper half of the table begins with the letter “A”.     
+Correct
+
+The effect of this would be transforming the content to upper case storing it back in and overwriting.
+
 
 
 
@@ -90,16 +136,24 @@ Query: SELECT * FROM land_ownership WHERE [land_type_id] = 1 AND ([land_owner_id
 <br/>
 
 
+**Question 6 What does the Interactive
+Selection Method Option: Add to Current Selection do?**    
+1 / 1 point
 
+Adds the currently highlighted feature to your
+selection.
 
+**Changes the function of the
+Interactive Selection tool to add features selected to the current section,
+rather than replace the old selection with a new one.** 
 
+Allows the user to input a
+query to return valid features to add to the current selection.     
 
-<br/>
-<br/>
+Creates a new layer using
+the currently selected features.     
+Correct
 
-
-
-
-
-<br/>
-<br/>
+The Add to Current
+Selection option modifies the Interactive Selection Tool to add new selections
+to the current selection, rather than creating a new selection.     
