@@ -2,7 +2,7 @@
 Latest Submission Grade 100%
 <br/>
 <br/>
-**Question 1 - Which of the following defines a complete GIS?**    
+**Question 1 Which of the following defines a complete GIS?**    
 1 / 1 point
 
 Google Maps and only Google Maps  
@@ -18,7 +18,7 @@ A GIS, or Geographic Information System is a combination of software and data th
 <br/>
 <br/>
 
-**Question 2 - When did the widespread use of graphical GIS begin?**    
+**Question 2 When did the widespread use of graphical GIS begin?**    
 1 / 1 point
 
 1970s
@@ -33,7 +33,7 @@ Windows and Macintosh desktop computers with a graphical user interface allowed 
 <br/>
 <br/>
 
-**Question 3 - Which of the following best describes the raster data type?**    
+**Question 3 Which of the following best describes the raster data type?**    
 1 / 1 point
 
 A coordinate-based data model that represents geographic features as points, lines, and polygons.    
@@ -49,7 +49,7 @@ Rasters are characterized primarily by their width, height, cell size, and origi
 <br/>
 <br/>
 
-**Question 4 - How is spatial data visually represented in ArcGIS?**    
+**Question 4 How is spatial data visually represented in ArcGIS?**    
 1 / 1 point
 
 In a separate program    
@@ -65,7 +65,7 @@ Layers allow the user to select different sets of data to display in the main vi
 <br/>
 <br/>
 
-**Question 5 - If you click the “Full Extent“ tool and your data disappears, what is a possible cause of this problem?**    
+**Question 5 If you click the “Full Extent“ tool and your data disappears, what is a possible cause of this problem?**    
 1 / 1 point
 
 You unselected your layer, causing it to no longer be displayed.    
