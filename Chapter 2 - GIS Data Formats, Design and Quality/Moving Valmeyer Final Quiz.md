@@ -13,7 +13,6 @@ You will need to retrieve these values from your final analysis layer - *before*
 <br/>
 
 **Question 1 To start this off, what is the value of the field mean_slope, rounded down to the nearest whole number (strip the decimal) for the record with OBJECTID 17?**
-
 1 / 1 point
 12
 Correct
