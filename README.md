@@ -1,7 +1,9 @@
 # Geographic-Information-Systems-GIS-Specialization
 ## There are 5 Courses in this Specialization
 <br/>
+<br/>
 **All quiz answers are provided by HANSIeltsKing!**
+<br/>
 <br/>
 **Chapter 1 - Fundamentals of GIS**
 
