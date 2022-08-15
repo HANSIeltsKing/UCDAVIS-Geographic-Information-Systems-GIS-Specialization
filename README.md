@@ -1,7 +1,8 @@
 # Geographic-Information-Systems-GIS-Specialization
 ## There are 5 Courses in this Specialization
 <br/>
-
+**All quiz answers are provided by HANSIeltsKing!**
+<br/>
 **Chapter 1 - Fundamentals of GIS**
 
 Explore the world of spatial analysis and cartography with geographic information systems (GIS). In this class you will learn the basics of the industry’s leading software tool, ArcGIS, during four week-long modules: 
